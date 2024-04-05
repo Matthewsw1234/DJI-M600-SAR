@@ -30,7 +30,7 @@ Note: I have `Fusion` and `White Hot` in my trained model.
 
 ## Connection To A3/N3
 
-Download `DJI Assistant 2 For Enterprise` or `DJI Assistant 2 For Matrice`. I have included the .exe for Assistant 2 For Matrice as sometimes Enterprise does not connect to the M600 A3. It is an older verion but is up to date on almost everything if not everything. Check the Repository if you would like it.
+Download `DJI Assistant 2 For Enterprise` or `DJI Assistant 2 For Matrice`. I recommend Assistant 2 For Matrice if you have connection issues to the M600. I use version 2.0.13.
 
 Connect a Micro USB port to the USB Hub on the Matrice 600. And turn the Copter on.
 
