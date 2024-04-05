@@ -35,6 +35,6 @@ Final Connections and DJI Go setup
 
 # Training your own model set
 
-If you wish to do this, please take a look at the TRAIN YOUR OWN MODELS.txt file if you want to capture/performance tune my set or your own.
+If you wish to do this, please take a look at the TRAIN YOUR OWN MODELS file if you want to capture/performance tune my set or your own.
 
 Note: The training method I use is using Google's Collab as I didn't want to set it up on my own machine.
