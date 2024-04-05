@@ -38,7 +38,7 @@ Final Connections and DJI Go setup (WIP)
 
 ## Training your own model set
 
-If you wish to do this, please take a look at the TRAIN YOUR OWN MODELS file if you want to capture/performance tune my set or your own.
+If you wish to do this, please take a look at the TRAIN YOUR OWN MODELS file if you want to capture/performance tune your own model set.
 
 ---
 
