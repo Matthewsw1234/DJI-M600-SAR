@@ -32,9 +32,9 @@ Please look at 3 Files:
 
 FLIR SETUP with Assistant 2 and FLIR UAS
 
-Mounting the RPI, FLIR, and Buck Converter
+Mounting the RPI, FLIR, and Buck Converter (WIP)
 
-Final Connections and DJI Go setup
+Final Connections and DJI Go setup (WIP)
 
 ## Training your own model set
 
