@@ -110,7 +110,7 @@ Save the file with Ctrl S and run the final block.
 
 Once it ends, you will see the output file: `Your-Model.tflite`. Download it to your Pi and move it to the repository.
 
-Open `detect.py` and scroll to def main() and look for `Your-Model.tflite`. Add a comment before my file with a # and uncomment `Your-Model.tflite`. 
+Open `detect.py` and scroll to def main() and look for `Your-Model.tflite`. Add a comment before my file with a # and uncomment `Your-Model.tflite`.
 
 ## That's It. YOU DID IT!
 
