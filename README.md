@@ -10,7 +10,7 @@ Installation on a Fresh Install of Bookworm, please set up an internet connectio
 Type these commands into Command Terminal
 
 Set up a VM if you want, I did not as this is the only purpose this Pi will be used for currently
-
+``` shell
 sudo apt-get update
 
 sudo apt-get upgrade
@@ -22,7 +22,7 @@ sudo pip3 install opencv-python
 sudo pip3 install mediapipe
 
 That is it for setup.
-
+```
 # Setting up the Hardware/Software for FLIR, RPI, and Gimbal
 
 Please look at 3 Files:
