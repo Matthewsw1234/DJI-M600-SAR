@@ -47,5 +47,6 @@ Config What F-PORT you want to use. I used F7 and F8 as those both have 3 Way sw
 Grab The FLIR VUE PRO Accessory Cable. There are 3 outputs. We are using the `Blue/Black` and `Orange/Black` cables.
 
 Plug these cables into the F-PORTS Chosen on Assistant 2. `Orange/Black` is `PWM 3`, `Blue/Black` is `PWM 4`
+![Image of the A3's F-Ports](Images/A3-FPORT.JPG)
 
 Once These Cables are All Connected to the A3 and FLIR VUE PRO, Flip the switches or turn the knobs that correspond to the ports you chose. Look at Assistant 2 and the FLIR app to confirm the correct ports are connected.
