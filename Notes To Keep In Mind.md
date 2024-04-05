@@ -1,3 +1,5 @@
+# Notes to Keep in Mind
+
 The Raspberry Pi 5 reccomends a power source of 5V 5A. I do not currently have this available so the FLIR is powered by a mobile battery pack until solved.
 
 The Output/Input of the RPI through Lightbridge 2 is not perfect. I am working on a fix but for now I reccomend running the scripts before launch.
