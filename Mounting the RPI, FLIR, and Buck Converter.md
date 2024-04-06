@@ -26,8 +26,6 @@ Next, mount the `FLIR CAMERA` to the `FLIR GIMBAL HOUSING`.
 
 ![Image of mounting FLIR to Housing](MOUNT-FLIR.JPG)
 
-## Connecting Raspberry Pi to Gimbal
-
 ## Mounting Components To Gimbal Arm
 
 Use Two Sided Tape/Adhesive to Mount the RPI and Voltage Buck Converter to the `GIMBAL ARM`.
@@ -45,3 +43,5 @@ Place the Voltage Buck Converter on the shorter side with the display facing out
 Place Gimbal onto Ronin MX Mount. Can face towards the front or the rear.
 
 ![Image of Gimbal on Drone](Working-Gimbal.JPG)
+
+That is it for mounting. Please look at `Final Connections and DJI Go setup` for wiring the components together.
