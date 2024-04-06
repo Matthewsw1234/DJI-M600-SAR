@@ -39,6 +39,18 @@ Mounting the RPI, FLIR, and Buck Converter (WIP)
 
 Final Connections and DJI Go setup (WIP)
 
+## Launching the Programs
+
+Once you have gone through the above setups. Open the repository on your Pi.
+
+Open `FLIR-Detection.py` in Thonny or your Python runner of choice.
+
+Run the program with the Flir Connected to the Pi. This will start the detection. For testing a USB webcam may work, but the model is not tuned for that.
+
+Open `Gimbal.py` to start the Servo's balancing in Thonny or your Python runner of choice.
+
+Make sure the MPU6050 is connected and the Servo before running. Yous should see the Gimbal lock to a certain pitch.
+
 ## Training your own model set
 
 If you wish to do this, please take a look at the TRAIN YOUR OWN MODELS file if you want to capture/performance tune your own model set.
