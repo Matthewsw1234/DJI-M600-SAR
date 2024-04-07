@@ -1,7 +1,7 @@
 # DJI-M600-SAR
 
-![Image of Working Detection](images/Detection.PNG)
-![Image of Gimbal On Drone](images/Working-Gimbal.JPG)
+![Image of Working Detection](Images/Detection.PNG)
+![Image of Gimbal On Drone](Images/Working-Gimbal.JPG)
 
 M600 Drone Custom Thermal Detection Payload With Gimbal Using Tensorflow Lite
 
